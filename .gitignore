@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.devcontainer/
+notebook_env/
+lab/
+*.csv
+*.db
+*.jovianrc
+*.pkl
+*.png
+*.xlsx
+*.xls
+*.parquet

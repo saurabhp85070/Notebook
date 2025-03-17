@@ -1,0 +1,1 @@
+appended successfully in file which dont exist and opened in append modeappended successfully in file which dont exist and opened in append modeappended successfully in file which dont exist and opened in append mode
