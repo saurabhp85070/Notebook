@@ -24,10 +24,10 @@ This repository contains a diverse collection of learning resources across vario
 
 ## 🛠️ Technologies Covered
 
-- **Programming Languages**: Python, SQL, JavaScript (Node.js)
-- **Frameworks & Libraries**: Django, TensorFlow, PySpark
-- **Tools**: Jupyter Notebook
-- **Domains**: Data Science, Machine Learning, Deep Learning, Web Development
+- **Programming Languages**: `Python`, `SQL`, `JavaScript` (`Node.js`)
+- **Frameworks & Libraries**: `Django`, `Keras`, `TensorFlow`, `PySpark`, `scikit-learn`
+- **Tools**: `Jupyter Notebook`
+- **Domains**: `Data Science`, `Machine Learning`, `Deep Learning`, `Web Development`
 
 ## 📦 Repository Contents
 
