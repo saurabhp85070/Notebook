@@ -1,6 +1,3 @@
-# Notebook
-This repo contains learning resource of all technology like Python, PySpark, Excel, Django, Node, ML, Data Science and many others in the form of Jupyter Notebook file.
-
 # 📘 Notebook Repository
 
 This repository contains a diverse collection of learning resources across various technologies, presented in the form of Jupyter Notebook (`.ipynb`) files. It's designed to serve as a comprehensive reference for topics ranging from programming languages to data science and machine learning.
