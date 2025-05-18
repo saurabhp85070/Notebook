@@ -1,0 +1,2 @@
+File handling in Python is a fundamental concept used to work with files—reading, writing, appending, or updating data stored in files. 
+Let's go in-depth, covering key concepts, modes, functions, best practices, and real-world examples.

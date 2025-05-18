@@ -1,0 +1,5 @@
+This is a new file.
+Written using Python.
+This line is appended.
+
+More content after reading.
