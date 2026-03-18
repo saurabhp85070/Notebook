@@ -1,5 +1,5 @@
-Saurabh Prakash
-computer science
-bachelor of technology
-python prgramming
-file handling
+White is a mix of seven colors. 
+What are these seven colors ? 
+VIBGYOR – violet, indigo, blue, green, orange and red. 
+When we mix all these colors we just get one light 
+which is the WHITE light.
